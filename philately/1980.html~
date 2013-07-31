@@ -1,0 +1,861 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 1980</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+<!-- table area -->
+
+
+
+
+
+
+                   <table id="DLComment" tabindex="3" cellspacing="4" cellpadding="20" style="border-color:#0B2161;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+
+
+
+	<tr> 
+		<td><br><br>
+
+
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_0">BRIDES OF INDIA : KASHMIR</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_0" src="images1/30-12-1980-3.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_0">30 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_0">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_0">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_0">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_1">BRIDES OF INDIA : BENGAL</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_1" src="images1/30-12-1980-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_1">30 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_1">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_1">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_1">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_2">BRIDES OF INDIA : RAJASTHAN</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_2" src="images1/30-12-1980-4.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_2">30 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_2">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_2">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_2">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_3">BRIDES OF INDIA : TAMILNADU</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_3" src="images1/30-12-1980-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_3">30 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_3">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_3">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_3">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_4">INDIA GOVERNMENT MINT, BOMBAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_4" src="images1/27-12-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_4">27 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_4">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_4">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_4">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_5">M A ANSARI 1880-1936</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_5" src="images1/25-12-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_5">25 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_5">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_5">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_5">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_6">GOLD MINING</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_6" src="images1/20-12-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_6">20 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_6">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_6">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_6">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_7">DHYAN CHAND 1906-1979</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_7" src="images1/03-12-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_7">03 Dec 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_7">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_7">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_7">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_8">CHILDREN'S DAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_8" src="images1/14-11-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_8">14 Nov 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_8">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_8">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_8">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_9">1400 HIJRI</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_9" src="images1/03-11-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_9">03 Nov 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_9">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_9">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_9">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_10">GREAT INDIAN BUSTARD</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_10" src="images1/01-11-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_10">01 Nov 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_10">INR 2.30</span>
+               <!--&nbsp;<span id="DLComment_Label6_10">2.30</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_10">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_11">JAYAPRAKASH NARAYAN 1902-1979</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_11" src="images1/08-10-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_11">08 Oct 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_11">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_11">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_11">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_12">DANDI MARCH  SALT SATYAGRAH (SE-TENANT)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_12" src="images1/02-10-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_12">02 Oct 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_12">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_12">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_12">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_13">RAJAH ANNAMALAI CHETTIAR 1881-1948</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_13" src="images1/30-09-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_13">30 Sep 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_13">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_13">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_13">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_14">SCOTTISH CHURCH COLLEGE, CALCUTTA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_14" src="images1/27-09-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_14">27 Sep 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_14">35 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_14">35.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_14">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_15">MOUNTBATTEN 1900-1979</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_15" src="images1/28-08-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_15">28 Aug 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_15">INR 2.80</span>
+               <!--&nbsp;<span id="DLComment_Label6_15">2.80</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_15">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_16">NOBEL PEACE PRIZE 1979 : MOTHER TERESA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_16" src="images1/27-08-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_16">27 Aug 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_16">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_16">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_16">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_17">PREM CHAND 1880-1936</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_17" src="images1/31-07-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_17">31 Jul 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_17">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_17">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_17">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_18">22 OLYMPICS : HIGH JUMP</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_18" src="images1/19-07-1980-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_18">19 Jul 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_18">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_18">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_18">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_19">22 OLYMPICS : EQUESTRIAN</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_19" src="images1/19-07-1980-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_19">19 Jul 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_19">INR 2.80</span>
+               <!--&nbsp;<span id="DLComment_Label6_19">2.80</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_19">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_20">HELEN KELLER 1880-1968</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_20" src="images1/27-06-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_20">27 Jun 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_20">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_20">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_20">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_21">S M ZAMIN ALI 1880-1955</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_21" src="images1/25-06-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_21">25 Jun 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_21">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_21">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_21">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_22">ULLOOR S PARAMESWARA IYER 1877-1949</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_22" src="images1/06-06-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_22">06 Jun 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_22">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_22">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_22">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_23">N M JOSHI 1879-1955</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_23" src="images1/05-06-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_23">05 Jun 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_23">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_23">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_23">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_24">5 ASIAN TABLE TENNIS 1980</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_24" src="images1/09-05-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_24">09 May 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_24">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_24">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_24">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_25">CHATRAPATI SHIVAJI MAHARAJ</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_25" src="images1/21-04-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_25">21 Apr 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_25">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_25">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_25">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_26">KESHUB CHANDRA SEN 1838-1884</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_26" src="images1/15-04-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_26">15 Apr 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_26">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_26">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_26">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_27">DARUL ULOOM DEOBAND</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_27" src="images1/21-03-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_27">21 Mar 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_27">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_27">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_27">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_28">WELTHY FISHER</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_28" src="images1/18-03-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_28">18 Mar 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_28">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_28">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_28">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_29">2ND INTERNATIONAL CONFERENCE ON APICULTURE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_29" src="images1/29-02-1980-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_29">29 Feb 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_29">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_29">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_29">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_30">1V WORLD BOOK FAIR</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_30" src="images1/29-02-1980-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_30">29 Feb 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_30">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_30">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_30">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_31">MADRAS SAPPERS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_31" src="images1/26-02-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_31">26 Feb 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_31">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_31">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_31">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_32">INSTITUTION OF ENGINEERS (INDIA)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_32" src="images1/17-02-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_32">17 Feb 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_32">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_32">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_32">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_33">INDIA-80 : ARMY POST OFFICE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_33" src="images1/25-01-1980-4.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_33">25 Jan 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_33">30 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_33">30.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_33">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_34">INDIA-80 : MONEY ORDER</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_34" src="images1/25-01-1980-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_34">25 Jan 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_34">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_34">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_34">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_35">INDIA-80 : COPPER TICKET</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_35" src="images1/25-01-1980-3.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_35">25 Jan 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_35">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_35">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_35">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_36">INDIA-80 : ROWLAND HILL 1795-1879</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_36" src="images1/25-01-1980-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_36">25 Jan 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_36">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_36">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_36">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_37">UNIDO 3RD GENERAL CONFERENCE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_37" src="images1/21-01-1980.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_37">21 Jan 1980</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_37">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_37">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_37">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+
+        <center>
+          
+            </center> 
+            <center>    
+               
+             </center>
+       
+            
+</td>
+	</tr>
+</table>
+               
+
+<br />
+            
+    </div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>              
+   

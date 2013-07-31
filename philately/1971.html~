@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 1971</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+<!-- table area -->
+
+
+
+
+
+
+                   <table id="DLComment" tabindex="3" cellspacing="4" cellpadding="20" style="border-color:#0B2161;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+
+
+
+	<tr> 
+		<td><br><br>
+
+
+
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_0">CRICKET VICTORIES</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_0" src="images1/30-12-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_0">30 Dec 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_0">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_0">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_0">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_1">VISVA BHARATI GOLDEN JUBILEE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_1" src="images1/24-12-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_1">24 Dec 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_1">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_1">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_1">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_2">CHANDRASHEKHAR VENKAT RAMAN 1888-1970</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_2" src="images1/21-11-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_2">21 Nov 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_2">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_2">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_2">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_3">CHILDREN'S DAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_3" src="images1/14-11-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_3">14 Nov 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_3">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_3">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_3">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_4">UNESCO - 25TH ANNIVERSARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_4" src="images1/04-11-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_4">04 Nov 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_4">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_4">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_4">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_5">WORLD THRIFT DAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_5" src="images1/31-10-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_5">31 Oct 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_5">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_5">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_5">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_6">CHARTER OF CYRYS THE GREAT - 2500TH ANNIVERSARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_6" src="images1/12-10-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_6">12 Oct 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_6">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_6">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_6">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_7">SWAMI VIRJANAND 1778-1868</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_7" src="images1/14-09-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_7">14 Sep 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_7">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_7">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_7">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_8">ABHISARIKA BY ABANINDRANATH TAGORE 1871-1951</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_8" src="images1/07-08-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_8">07 Aug 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_8">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_8">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_8">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_9">DADASAHEB PHALKE 1870-1944</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_9" src="images1/30-04-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_9">30 Apr 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_9">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_9">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_9">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_10">RAJA RAVI VARMA 1848-1906</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_10" src="images1/29-04-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_10">29 Apr 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_10">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_10">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_10">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_11">SRI RAMANA MAHARSHI 1879-1950</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_11" src="images1/14-04-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_11">14 Apr 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_11">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_11">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_11">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_12">CENSUS CENTENARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_12" src="images1/10-03-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_12">10 Mar 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_12">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_12">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_12">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_13">ACHARYA NARENDRA DEO 1889-1956</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_13" src="images1/19-02-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_13">19 Feb 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_13">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_13">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_13">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_14">DEENABANDHU C F ANDREWS 1871-1940</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_14" src="images1/12-02-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_14">12 Feb 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_14">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_14">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_14">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_15">KASHI VIDYAPITH GOLDEN JUBILEE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_15" src="images1/10-02-1971-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_15">10 Feb 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_15">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_15">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_15">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_16">SANT RAVIDAS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_16" src="images1/10-02-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_16">10 Feb 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_16">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_16">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_16">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_17">INDIAN LIFE INSURANCE 1870-1970</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_17" src="images1/11-01-1971.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_17">11 Jan 1971</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_17">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_17">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_17">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+
+        <center>
+          
+            </center> 
+            <center>    
+               
+             </center>
+       
+            
+</td>
+	</tr>
+</table>
+               
+
+<br />
+</div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>
+            
+                  

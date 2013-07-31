@@ -1,0 +1,658 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 1986</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+<!-- table area -->
+
+
+
+
+
+
+                   <table id="DLComment" tabindex="3" cellspacing="4" cellpadding="20" style="border-color:#0B2161;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+
+
+
+	<tr> 
+		<td><br><br>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_0">VEER SURENDRA SAI</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_0" src="images1/30-12-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_0">30 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_0">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_0">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_0">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_1">ST. MARTHA'S HOSPITAL, BANGALORE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_1" src="images1/30-12-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_1">30 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_1">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_1">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_1">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_2">SAGARMAL GOPA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_2" src="images1/29-12-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_2">29 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_2">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_2">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_2">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_3">ALLURI SEETARAMA RAJU</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_3" src="images1/26-12-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_3">26 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_3">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_3">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_3">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_4">50 YEARS OF CORBETT NATIONAL PARK</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_4" src="images1/15-12-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_4">15 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_4">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_4">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_4">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_5">50 YEARS OF CORBETT NATIONAL PARK</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_5" src="images1/15-12-1986-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_5">15 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_5">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_5">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_5">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_6">TANSEN</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_6" src="images1/12-12-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_6">12 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_6">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_6">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_6">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_7">40TH ANNIVERSARY OF UNICEF</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_7" src="images1/11-12-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_7">11 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_7">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_7">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_7">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_8">40TH ANNIVERSARY OF UNICEF</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_8" src="images1/11-12-1986-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_8">11 Dec 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_8">INR 5.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_8">5.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_8">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_9">CHILDREN'S DAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_9" src="images1/14-11-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_9">14 Nov 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_9">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_9">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_9">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_10">INTERNATIONAL YEAR OF PEACE 1986</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_10" src="images1/24-10-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_10">24 Oct 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_10">INR 5.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_10">5.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_10">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_11">125TH ANNIVERSARY OF INDIAN POLICE (SE-TENANT)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_11" src="images1/21-10-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_11">21 Oct 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_11">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_11">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_11">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_12">1 PARA (COMMANDO) 1761-1986</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_12" src="images1/17-10-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_12">17 Oct 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_12">INR 3.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_12">3.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_12">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_13">200 YEARS OF MADRAS GPO</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_13" src="images1/09-10-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_13">09 Oct 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_13">INR 5.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_13">5.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_13">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_14">X ASIAN GAMES : WOMEN'S VOLLEYBALL</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_14" src="images1/16-09-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_14">16 Sep 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_14">INR 1.50</span>
+               <!--&nbsp;<span id="DLComment_Label6_14">1.50</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_14">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_15">X ASIAN GAMES : MEN'S HURDLE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_15" src="images1/16-09-1986-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_15">16 Sep 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_15">INR 3.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_15">3.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_15">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_16">SWAMI SIVANANDA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_16" src="images1/08-09-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_16">08 Sep 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_16">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_16">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_16">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_17">BHIM SEN SACHAR</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_17" src="images1/14-08-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_17">14 Aug 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_17">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_17">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_17">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_18">WORLD CUP FOOTBALL MEXICO</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_18" src="images1/13-05-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_18">31 May 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_18">INR 5.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_18">5.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_18">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_19">MAYO COLLEGE, AJMER</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_19" src="images1/12-04-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_19">12 Apr 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_19">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_19">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_19">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_20">CHAITANYA MAHAPRABHU</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_20" src="images1/13-03-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_20">13 Mar 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_20">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_20">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_20">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_21">SIXTH TRIENNALE-INDIA 1986</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_21" src="images1/22-02-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_21">22 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_21">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_21">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_21">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_22">75TH ANNIVERSARY OF FIRST AERIAL POST</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_22" src="images1/18-02-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_22">18 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_22">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_22">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_22">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_23">75TH ANNIVERSARY OF FIRST AERIAL POST</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_23" src="images1/18-02-1986-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_23">18 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_23">INR 3.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_23">3.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_23">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_24">I N S VIKRANT</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_24" src="images1/16-02-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_24">16 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_24">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_24">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_24">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_25">INPEX-86 : HAWA MAHAL</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_25" src="images1/14-02-1986-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_25">14 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_25">50 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_25">50.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_25">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_26">INPEX-86 : MOBILE CAMEL POST OFFICE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_26" src="images1/14-02-1986-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_26">14 Feb 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_26">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_26">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_26">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_27">NAVAL DOCKYARD BOMBAY - 250TH ANNIVERSARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_27" src="images1/11-01-1986.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_27">11 Jan 1986</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_27">INR 2.50</span>
+               <!--&nbsp;<span id="DLComment_Label6_27">2.50</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_27">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+
+        <center>
+          
+            </center> 
+            <center>    
+               
+             </center>
+       
+            
+</td>
+	</tr>
+</table>
+               
+
+<br />
+            
+                  </div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>

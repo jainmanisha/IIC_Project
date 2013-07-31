@@ -1,0 +1,440 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 1972</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+<!-- table area -->
+
+
+
+
+
+
+                   <table id="DLComment" tabindex="3" cellspacing="4" cellpadding="20" style="border-color:#0B2161;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+
+
+
+	<tr> 
+		<td><br><br>
+
+
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_0">VIKRAM A SARABHAI 1919-1971</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_0" src="images1/30-12-1972-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_0">30 Dec 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_0">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_0">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_0">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_1">50TH ANNIVERSARY OF U S S R  - 1922-1972</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_1" src="images1/30-12-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_1">30 Dec 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_1">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_1">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_1">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_2">ASIA 72</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_2" src="images1/03-11-1972-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_2">03 Nov 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_2">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_2">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_2">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_3">ASIA 72</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_3" src="images1/03-11-1972-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_3">03 Nov 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_3">INR 1.45</span>
+               <!--&nbsp;<span id="DLComment_Label6_3">1.45</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_3">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_4">PERSONALITY SERIES : BHAI VIR SINGH 1872-1957</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_4" src="images1/16-10-1972-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_4">16 Oct 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_4">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_4">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_4">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_5">PERSONALITY SERIES : T PRAKASAM 1872-1957</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_5" src="images1/16-10-1972-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_5">16 Oct 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_5">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_5">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_5">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_6">PERSONALITY SERIES : VEMANA  - BORN 17TH CENTURY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_6" src="images1/16-10-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_6">16 Oct 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_6">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_6">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_6">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_7">PERSONALITY SERIES : BERTRAND RUSSELL 1872-1970</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_7" src="images1/16-10-1972-3.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_7">16 Oct 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_7">INR 1.45</span>
+               <!--&nbsp;<span id="DLComment_Label6_7">1.45</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_7">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_8">V O CHIDAMBARAM PILLAI 1872-1936</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_8" src="images1/05-09-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_8">05 Sep 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_8">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_8">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_8">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_9">SRI AUROBINDO BIRTH CENTENARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_9" src="images1/15-08-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_9">15 Aug 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_9">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_9">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_9">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_10">25TH ANNIVERSARY OF INDEPENDENCE 1947-1972</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_10" src="images1/15-08-1972-2.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_10">15 Aug 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_10">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_10">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_10">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_11">GREETINGS TO OUR FORCES</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_11" src="images1/15-08-1972-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_11">15 Aug 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_11">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_11">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_11">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_12">XX OLYMPIC GAMES</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_12" src="images1/10-08-1972-1.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_12">10 Aug 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_12">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_12">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_12">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_13">XX OLYMPIC GAMES</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_13" src="images1/10-08-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_13">10 Aug 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_13">INR 1.45</span>
+               <!--&nbsp;<span id="DLComment_Label6_13">1.45</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_13">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_14">INTERNATIONAL UNION OF RAILWAYS 1922-1972</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_14" src="images1/30-06-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_14">30 Jun 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_14">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_14">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_14">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_15">ISI SILVER JUBILEE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_15" src="images1/29-05-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_15">29 May 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_15">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_15">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_15">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_16">ARVI SATELLITE EARTH STATION</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_16" src="images1/26-02-1972.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_16">26 Feb 1972</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_16">20 nP</span>
+               <!--&nbsp;<span id="DLComment_Label6_16">20.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_16">Thematic</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+
+        <center>
+          
+            </center> 
+            <center>    
+               
+             </center>
+       
+            
+</td>
+	</tr>
+</table>
+               
+
+<br />
+</div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>
+            

@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="index.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+    
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="index.html" class="nav_selected"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginners Column </a></li>
+                         <li><a href="Catalogue.html" class="nav"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>
+
+
+     
+

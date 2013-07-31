@@ -1,0 +1,640 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 1994</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+<!-- table area -->
+
+
+
+
+
+
+                   <table id="DLComment" tabindex="3" cellspacing="4" cellpadding="20" style="border-color:#0B2161;border-width:1px;border-style:Solid;width:100%;border-collapse:collapse;">
+
+
+
+	<tr> 
+		<td><br><br>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_0">200 YEARS OF BOMBAY GPO</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_0" src="images1/28-12-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_0">28 Dec 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_0">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_0">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_0">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_1">BARODA MUSEAUM, VADODARA (SE-TENANT)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_1" src="images1/20-12-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_1">20 Dec 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_1">INR 11.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_1">11.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_1">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_2">COLLEGE OF ENGINEERING, GUINDY, MADRAS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_2" src="images1/19-12-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_2">19 Dec 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_2">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_2">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_2">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_3">215 YEARS OF REMOUNT VETERINARY CORPS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_3" src="images1/14-12-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_3">14 Dec 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_3">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_3">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_3">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_4">125TH ANNIVERSARY OF ST. XAVIERS COLLEGE, BOMBAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_4" src="images1/04-12-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_4">04 Dec 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_4">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_4">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_4">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_5">CENTENARY OF CALCUTTA BLIND SCHOOL </span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_5" src="images1/30-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_5">30 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_5">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_5">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_5">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_6">J R D TATA 1904-1993</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_6" src="images1/29-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_6">29 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_6">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_6">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_6">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_7">KHUDA BAKHSH ORIENTAL PUBLIC LIBRARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_7" src="images1/21-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_7">21 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_7">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_7">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_7">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_8">INTERNATIONAL YEAR OF THE FAMILY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_8" src="images1/20-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_8">20 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_8">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_8">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_8">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_9">CHILDREN'S DAY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_9" src="images1/14-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_9">14 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_9">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_9">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_9">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_10">HUMAN RESOURCE DEVELOPMENT WORLD CONFERENCE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_10" src="images1/08-11-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_10">08 Nov 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_10">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_10">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_10">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_11">XVI INTERNATIONAL CANCER CONGRESS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_11" src="images1/30-10-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_11">30 Oct 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_11">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_11">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_11">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_12">125 YEARS OF MAHATMA GANDHI (SE-TENANT)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_12" src="images1/02-10-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_12">02 Oct 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_12">INR 11.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_12">11.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_12">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_13">INSTITUTE OF MENTAL HEALTH, MADRAS</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_13" src="images1/23-09-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_13">23 Sep 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_13">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_13">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_13">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_14">4TH BN (WLI) THE MADRAS REGIMENT 1794-1994</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_14" src="images1/12-08-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_14">12 Aug 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_14">INR 6.50</span>
+               <!--&nbsp;<span id="DLComment_Label6_14">6.50</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_14">Defence</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_15">IPTA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_15" src="images1/25-05-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_15">25 May 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_15">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_15">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_15">Institution</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_16">75TH ANNIVERSARY OF THE INTERNATIONAL LABOUR ORGANISATION : WORLD OF WORK</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_16" src="images1/01-05-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_16">01 May 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_16">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_16">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_16">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_17">CHANDRA SINGH GARHWALI</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_17" src="images1/23-04-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_17">23 Apr 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_17">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_17">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_17">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_18">75TH ANNIVERSARY OF THE JALLIANWALA BAGH MARTYRDOM</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_18" src="images1/13-04-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_18">13 Apr 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_18">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_18">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_18">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_19">RANI ROSHMONI</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_19" src="images1/09-04-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_19">09 Apr 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_19">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_19">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_19">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_20">UPASI-CENTENARY</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_20" src="images1/26-03-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_20">26 Mar 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_20">INR 2.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_20">2.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_20">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_21">EIGHTH TRIENNALE-INDIA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_21" src="images1/14-03-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_21">14 Mar 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_21">INR 6.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_21">6.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_21">Event</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_22">PRJAPITA BRAHMA</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_22" src="images1/07-03-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_22">07 Mar 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_22">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_22">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_22">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_23">DR. SHANTI SWARUP BHATNAGAR</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_23" src="images1/21-02-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_23">21 Feb 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_23">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_23">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_23">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_24">SATYAJIT RAY (SE-TENANT)</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_24" src="images1/11-01-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_24">11 Jan 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_24">INR 11.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_24">11.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_24">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_25">DR. SAMPURNANAND</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_25" src="images1/10-01-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_25">10 Jan 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_25">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_25">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_25">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+                 <b>&nbsp;A commemorative postage stamp on&nbsp;</b>
+                <span id="DLComment_Label4_26">SATYENDRA NATH BOSE</span>&nbsp;
+                <center>
+                <img id="DLComment_Image1_26" src="images1/01-01-1994.jpg" style="width:350px;" />
+                </center>
+         
+                
+                <b>&nbsp;Date of Issue:&nbsp;</b> <span id="DLComment_Label3_26">01 Jan 1994</span>
+               <br />
+               <b>&nbsp;Denomination:</b>
+               <span id="DLComment_Label5_26">INR 1.00</span>
+               <!--&nbsp;<span id="DLComment_Label6_26">1.00</span>-->
+               <br />
+               <b>&nbsp;Category:</b>
+               <span id="DLComment_Label7_26">Personality</span>
+               <br />
+                        <img border="0" src="images/line.gif" width="100%" height="2">
+                    </td>
+	</tr><tr>
+		<td>
+
+        <center>
+          
+            </center> 
+            <center>    
+               
+             </center>
+       
+            
+</td>
+	</tr>
+</table>
+               
+
+<br />
+            
+   </div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>
+               
+   

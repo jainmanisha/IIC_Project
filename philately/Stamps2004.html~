@@ -1,0 +1,945 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<title>Philately World</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<div id="main_container">
+
+	<div id="header">
+    <div class="logo">
+    <a href="MyHomePage.html"><img src="myLogo.png" width="425" alt="" title="" border="0" /></a>
+    </div>
+    
+    </div>
+
+
+
+
+
+
+         
+<!-- Menu area -->
+
+   
+            
+    <div id="main_content">
+    
+    	<div class="center_content">
+        
+            <div id="menu_tab">                                     
+                    <ul class="menu">                                                                               
+                         <li><a href="MyHomePage.html" class="nav"> Home </a></li>
+                         <li><a href="Philately.html" class="nav"> Philately </a></li>
+                         <li><a href="BeginersColumn.html" class="nav"> Beginers Column </a></li>
+                         <li><a href="Catalogue.html" class="nav_selected"> Catalogue </a></li>
+                         <li><a href="AboutUs.html" class="nav"> About Us </a></li>
+
+                    </ul>
+            </div> 
+            
+         
+
+
+
+<div class="welcome_block">
+<br><br><br><br><p style="font-family:Vivaldi;color:black;font-size:38px">Stamps 2004</p><br><br><br><br><br></div>
+
+<div class="new_products"> 
+
+
+
+              
+              <table border="1" height="170"  width="100%"  align="center" 
+        bordercolor="#000080" id="table5" 
+                style="border: 1px solid #800000; border-collapse: collapse;">
+                <tbody>
+                 <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Bhaskara%20Sethupathy_11.jpg" width="111" height="149"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                         style="vertical-align: middle" >
+                      <p align="left"><b>27th.
+                      Dec. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      commemorative postage stamp on  'Bhaskara
+                      Sethupathy'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table6">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Sahitya%20Akademi_10.jpg" width="142" height="106"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>21st.
+                      Dec. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      postage stamp on  'Sahitya Akademi'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table7">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Taj%20Mahal_9.jpg" width="195" height="159"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>16th.
+                      Dec. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      postage stamp on  'Taj Mahal'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table8">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 15.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Energy%20Conservation_8.jpg" width="151" height="109"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>14th.
+                      Dec. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      postage stamp on  'Energy
+                      Conservation'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table9">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Nupee%20Lal_7.jpg" width="148" height="111"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>12th.
+                      Dec. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on  'Nupee
+                      Lal'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table10">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="1" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Bhagat%20Puran%20Singh_6.jpg" width="106" height="153"></td>
+                    <td height="1" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>10th.
+                      Dec. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on  'Bhagat
+                      Puran Singh'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table11">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Aga%20Khan%20Award%20Agra%20Fort_%205.jpg" width="350" ></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>28th.
+                      Nov. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      postage stamp on 'Aga
+                      Khan Award for Architecture Agra Fort (Setenant) with Min.
+                      St.'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table12">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 15.00,INR 15.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Dula%20Bhaya%20Kag_4.jpg" width="109" height="151"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>25th.
+                      Nov. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on 'Dula
+                      Bhaya Kag'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table13">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Walchand%20Hirachand_3.jpg" width="127" height="104"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>23rd.
+                      Nov. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'Walchnad Hirachand'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table14">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Childrens%20Day_2.jpg" width="111" height="155"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>14th.
+                      Nov. 2004:&nbsp;</b>   
+                          A&nbsp;
+                      postage stamp on
+                      'Children's Day'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table15">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Dr[1].%20Tenneti%20Vishwanathan_1.jpg" width="111" height="146"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>10th.
+                      Nov. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on 'Dr.Tenneti
+                      Vishwanathan'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table16">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/M%20C%20Chagla.jpg" width="150" height="106"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>1st.
+                      Oct. 2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on  'M.C.Chhagla'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table17">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;,INR 
+							05.00,INR 05.00,INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/stamps041004.jpg" width="289" height="307"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>4rth.
+                      Oct. 2004:&nbsp;</b>  
+                          150&nbsp;
+                      Years
+                      of&nbsp; Postage Stamps (set of 4 stamps)</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table18">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;,INR 
+							05.00,INR 05.00,INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Tirupur%20Kumaran.jpg" width="113" height="148"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>4rth.
+                      Oct. 2004:&nbsp;</b>&nbsp;<span 
+                              > A 
+						commemorative postage stamp on 'Tirupur
+                      Kumaran'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table19">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Ashoka%20Chakra%20Winners.jpg" width="305" height="106"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>8th.
+                      Oct. 2004:&nbsp;</b>&nbsp;'<span 
+                              >Ashok
+                      Chakra Winners (2 Stamps)'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table20">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00,INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Guru%20Dutt.jpg" width="146" height="107"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>10th.
+                      Oct. 2004:&nbsp;</b>&nbsp;<span 
+                              >A 
+						commemorative postage stamp on
+                      'Guru Dutt'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table21">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/indian%20solders%20of%20peace.jpg" width="228" height="111"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>24rth.
+                      Oct. 2004:&nbsp;</b>&nbsp;'<span 
+                              >Role
+                      Of Indian Army in Peace Keeping Operations'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table22">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Maruthu%20Pandiar%20Brother.jpg" width="127" height="109"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>24rth.
+                      Oct. 2004:&nbsp;</b>&nbsp;'<span 
+                              >Maruthu
+                      Pandiar Brothers'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table23">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/greetings.jpg" width="228" height="113"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>25th.
+                      Oct. 2004:&nbsp;</b>&nbsp;'<span 
+                              >Greetings
+                      (set
+                      of 2 stamps)'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table24">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >400
+                              P,400</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/ksubra.gif" width="306" height="221"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                        style="vertical-align: middle" >
+                      <p align="left"><b>10th&nbsp;Sept.
+                      2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'K.Subrahmanyam'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table25">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/28th%20Olyampic.jpg" width="323" height="389"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>13th.
+                      Aug. 2004:&nbsp;</b>   
+                          28th.
+                      Olympics (set of four stamps)</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table26">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00, 05.00, 
+							15.00, 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Kabir_Hafiz.jpg" width="316" height="186"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>16th.
+                      Aug. 2004:&nbsp;</b>   
+                          Indo-Iran:Joint
+                      Issue (Kabir &amp; Hafiz)</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table27">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 15.00, 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Murasoli%20Maran.jpg" width="146" height="188"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><span >17th.
+                      Aug. 2004:&nbsp;A 
+						commemorative postage stamps on 'Murasoli Maran'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table28">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Rajiv%20gandhi%20renewable%20energy%20day.jpg" width="188" height="155"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><span >20
+                      th.
+                      Aug. 2004:&nbsp;A 
+						commemorative postage stamps on 'Rajiv Gandhi Renewable
+                      Energy Day'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table29">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/S%20S%20Vasan.jpg" width="100" height="146"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><span >26
+                      th.
+                      Aug. 2004:&nbsp;A 
+						commemorative postage stamps on 'S.S.Vasan'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table30">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamps2004/Panini.jpg" width="148" height="118"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><span >30
+                      th.
+                      Aug. 2004:&nbsp;A 
+						commemorative postage stamps on 'Panini'</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table31">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+
+
+
+
+
+                  <tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel158.gif" width="200" height="266"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                          >
+                  <p align="left"><b>19th
+                  June 2004:&nbsp;</b> 
+                      A
+                  commemorative postage stamp on 'P.N.
+                  Panicker'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel157.gif" width="200" height="257"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>17th&nbsp;june
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'Jyothiprasad Agarwalla'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel156.gif" width="167" height="200"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>2nd&nbsp;June
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'Woodstock School'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel155.gif" width="200" height="263"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>27th
+                  May 2004:&nbsp;</b> 
+                      A
+                  commemorative postage stamp on 'Indra
+                  Chandra Shastri'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel154.gif" width="200" height="236"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>14th&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'Siddhar Swamigal'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel153.gif" width="200" height="264"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>28th&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'Baji Rao Peshwa'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel152.gif" width="200" height="266"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>25th&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'Indian Institute of
+                  Social Welfare and Business Management(IISWBM)', Kolkata&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel152a.gif" width="200" height="150"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>25th&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'INS Tarangini'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel151.gif" width="200" height="149"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>14th&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on 'V. Lakshminarayana'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+					<tr>
+                <td height="3" width="25%" align="center">
+				<img border="0" src="images/Stamp-Rel150.gif" width="200" height="143"></td>
+                <td height="3" width="75%" align="center" valign="top" style="vertical-align: middle" 
+                            >
+                  <p align="left"><b>1st&nbsp;April
+                  2004:&nbsp;</b> 
+                      A commemorative
+                  postage stamp on '9&nbsp; Madras (Travancore)'&nbsp;</p>
+                  <div align="center">
+                    <table border="0" cellpadding="0" cellspacing="0" width="332">
+                      <tr>
+                        <td width="90" >Denomination</td>
+                        <td width="183" >INR 05.00&nbsp;</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <p align="center" >&nbsp;</td>
+              	</tr>
+
+
+
+
+
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamp-Rel149.gif" width="150" height="198"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>18th&nbsp;March
+                      2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'Annamacharya'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table32">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamp-Rel148.gif" width="162" height="235"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>6th&nbsp;February
+                      2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'Dr. B.D. Garware'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table33">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamp-Rel147.gif" width="200" height="224"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>16th&nbsp;January
+                      2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'Nani A. Palhivala'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table34">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;</td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p align="center" >&nbsp;
+                      </td>
+                  </tr>
+                  <tr>
+                    <td height="3" width="52%" align="center">
+                    
+                    <img border="0" src="images/Stamp-Rel146.gif" width="200" height="149"></td>
+                    <td height="3" width="46%" align="center" valign="top" 
+                          style="vertical-align: middle" >
+                      <p align="left"><b>14th&nbsp;January
+                      2004:&nbsp;</b>   
+                          A 
+						commemorative postage stamp on
+                      'C.D. Deshmukh'&nbsp;</p>
+                      <div align="center">
+                        <table border="0" cellpadding="0" cellspacing="0" width="332" id="table35">
+                          <tr>
+                            <td width="90" >Denomination</td>
+                            <td width="183" >INR 05.00&nbsp;</td>
+                          </tr>
+                        </table>
+                      </div>
+                     
+                      </td>
+                  </tr>
+        </center>
+                </tbody>
+              </table>
+				
+
+</div></div>
+
+              
+</div>
+              
+   
+  <!-- End area -->
+
+    
+    <div id="footer">
+        <div class="left_footer"><img src="http://3.bp.blogspot.com/-Rsv6lwUgKfQ/UYN7GZdG2mI/AAAAAAAAAro/pd3s7YwRSDI/s1600/India+post.PNG" width="172" height="30" alt="" title="" /></div>
+
+
+        <div class="right_footer"> Copyright &copy; 2013 CONTRIVERS All Rights Reserved.  </div>
+    </div>
+
+</div>
+</body>
+</html>
+
